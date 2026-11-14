@@ -1,4 +1,8 @@
 hello
 hello this my first file 
 hello
+<<<<<<< HEAD
 jai ram
+=======
+heeeeelllllllllllllllľllllll
+>>>>>>> 4de6a64eab97b90450843e1ea001426b82868dec
